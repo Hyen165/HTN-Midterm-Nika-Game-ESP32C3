@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/DUT/9.HTN/MIDTERM/CODEv2/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "E:/DUT/9.HTN/MIDTERM/CODEv2/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "E:/DUT/9.HTN/MIDTERM/CODEv2/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "E:/DUT/9.HTN/MIDTERM/CODEv2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "E:/DUT/9.HTN/MIDTERM/CODEv2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "E:/DUT/9.HTN/MIDTERM/CODEv2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "E:/DUT/9.HTN/MIDTERM/CODEv2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "E:/DUT/9.HTN/MIDTERM/CODEv2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "E:/DUT/9.HTN/MIDTERM/CODEv2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "E:/DUT/9.HTN/MIDTERM/CODEv2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

@@ -1,2 +1,0 @@
-# Tick 1 ms để vTaskDelayUntil chính xác (mặc định ESP-IDF là 100 Hz = 10 ms)
-CONFIG_FREERTOS_HZ=1000
